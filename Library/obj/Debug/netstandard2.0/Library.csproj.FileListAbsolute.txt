@@ -1,0 +1,9 @@
+/Users/clifford/work/interview/csharp/src/Library/bin/Debug/netstandard2.0/Library.deps.json
+/Users/clifford/work/interview/csharp/src/Library/bin/Debug/netstandard2.0/Library.dll
+/Users/clifford/work/interview/csharp/src/Library/bin/Debug/netstandard2.0/Library.pdb
+/Users/clifford/work/interview/csharp/src/Library/obj/Debug/netstandard2.0/Library.csprojAssemblyReference.cache
+/Users/clifford/work/interview/csharp/src/Library/obj/Debug/netstandard2.0/Library.csproj.CoreCompileInputs.cache
+/Users/clifford/work/interview/csharp/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/Users/clifford/work/interview/csharp/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.cs
+/Users/clifford/work/interview/csharp/src/Library/obj/Debug/netstandard2.0/Library.dll
+/Users/clifford/work/interview/csharp/src/Library/obj/Debug/netstandard2.0/Library.pdb
