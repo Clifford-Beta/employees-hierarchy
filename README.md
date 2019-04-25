@@ -58,4 +58,4 @@ The sample employee hierarchies are found in the `UnitTests/` folder.
 The program makes output in the following format. This sample output is taken from running it on
 the `test.txt` input file with `Employee1` as the manager of interest.
 
-It outputs the total salary budget of the **CEO** who is `Employee1` in this case.
+It outputs `3300` the total salary budget of the **CEO** who is `Employee1` in this case.
